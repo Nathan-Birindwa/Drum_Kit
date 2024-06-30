@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/Nathan-Birindwa/drum-web.git
+https://github.com/Nathan-Birindwa/Drum_Kit.git
 
 Navigate to the project directory:
 
