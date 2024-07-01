@@ -9,9 +9,9 @@ Play different drum sounds by clicking buttons.
 Play drum sounds using keyboard keys.
 Responsive design for use on various devices.
 Technologies Used
-HTML
-CSS
-JavaScript
+HTML (not my code)
+CSS (not my code)
+JavaScript(Wrote everything)
 Setup
 To run this project locally, follow these steps:
 
@@ -19,10 +19,7 @@ Clone the repository:
 
 https://github.com/Nathan-Birindwa/Drum_Kit.git
 
-Navigate to the project directory:
-
-cd drum-web
-
+Navigate to the project directory.
 Open index.html in your web browser.
 
 Usage
