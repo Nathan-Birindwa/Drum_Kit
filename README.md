@@ -1,4 +1,5 @@
-Drum Web
+# **Drum Kit**
+
 This project was created as part of a course on Udemy, instructed by Angela Yu.
 
 Introduction
@@ -24,6 +25,8 @@ Navigate to the project directory.
 Open index.html in your web browser.
 
 Usage
+
+![alt text](/images/Screenshot%202024-07-01%20212438.png)
 
 Click on the drum buttons to play sounds.
 
