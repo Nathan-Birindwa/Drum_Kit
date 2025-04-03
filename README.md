@@ -14,7 +14,7 @@ Technologies Used
 HTML (not my code)
 CSS (not my code)
 JavaScript(Wrote everything)
-Setup
+Setup.
 To run this project locally, follow these steps:
 
 Clone the repository:
